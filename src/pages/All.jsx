@@ -16,8 +16,6 @@ export default function All({blogData}){
                 </div> 
              </div>
             ))}
-               
-          
         </div>
 
     </>
